@@ -1,0 +1,25 @@
+{
+   "user1" : {
+      "name" : "Syed",
+      "password" : "Welcome1",
+      "profession" : "Computer Scientist",
+	"location" : "Mequon",
+      "id": 1
+   },
+   
+   "user2" : {
+      "name" : "Ali",
+      "password" : "Welcome2",
+      "profession" : "Security Expert",
+	"location" : "Green Bay",
+      "id": 2
+   },
+   
+   "user3" : {
+      "name" : "Mohammed",
+      "password" : "Welcome3",
+      "profession" : "Doctor",
+	"location" : "Milwaukee",
+      "id": 3
+   }
+}
